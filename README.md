@@ -1,0 +1,2 @@
+# DefenderCloudAppEvents-PurviewDLPAuditLogs
+Microsoft Defender でサポートされた監査ログについて、Purview Audit Log がどこまで見れるのか
